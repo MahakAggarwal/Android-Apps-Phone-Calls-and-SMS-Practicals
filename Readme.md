@@ -17,5 +17,5 @@ This repository is a work in progress and I will be adding more tasks and coding
 All the projects in this repository will target API 21 and later.
 
 # Contents
-* 1.1: Making Phone Calls - Part 1, 2
-* 2.1: Sending and Receiving SMS Messages - Part 1, 2 __(not complete yet)__
+* 1.1, 1.2: Making Phone Calls - Part 1, 2
+* 2.1, 2.2: Sending and Receiving SMS Messages - Part 1, 2 __(not complete yet)__
