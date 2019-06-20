@@ -1,4 +1,4 @@
-# 1.1: Making Phone Calls - Part 1, 2
+# 1.1, 1.2: Making Phone Calls - Part 1, 2
 
 1. Task 1 - Send an intent with the phone number to dial -->*(Project: PhoneCallDial)*
 2. Task 2 - Make a phone call from within an app -->*(Project: PhoneCallingSample)*
