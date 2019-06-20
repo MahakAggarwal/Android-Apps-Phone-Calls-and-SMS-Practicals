@@ -11,11 +11,11 @@ Mahak Aggarwal
 * __Gradle Version:__ 5.1 and above
 
 The projects in this repository use Java language with AndroidX libraries.
-This repository is a work in progress and I will be adding more tasks and coding challenges as I finish them.
+All the projects are complete.
 
 # Android Version
 All the projects in this repository will target API 21 and later.
 
 # Contents
 * 1.1, 1.2: Making Phone Calls - Part 1, 2
-* 2.1, 2.2: Sending and Receiving SMS Messages - Part 1, 2 __(not complete yet)__
+* 2.1, 2.2: Sending and Receiving SMS Messages - Part 1, 2
