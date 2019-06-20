@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Phone Mms CC</string>
+    <string name="intro_text">Select a picture and send -</string>
+    <string name="select_picture_and_send">Select A Picture and Send</string>
+    <string name="failure_permission">Failure to obtain permission!</string>
+    <string name="permission_not_granted">Permission not granted!</string>
+    <string name="picture_selected">Picture is selected.</string>
+    <string name="button_disabled">Selecting a picture is disabled</string>
+</resources>
